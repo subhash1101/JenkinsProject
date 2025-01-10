@@ -1,4 +1,4 @@
 # JenkinsProject
-<h1>My Register Number- 22PA1A0558</h1>
-<h2>This is my Assignment using Jenkins</h2>
-<h2>Hello World</h2>
+<h2>My Register Number- 22PA1A0558</h1>
+<h3>This is my Assignment using Jenkins</h3>
+<h3>Hello World</h3>
